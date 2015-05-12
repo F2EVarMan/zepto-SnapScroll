@@ -57,25 +57,6 @@ $("#J_pages").on('done:scroll',function(e,newIndex,direction){
 
 ```
 
-##DEMO
-[DEMO1](http://oos.me/zepto-SnapScroll/demo.html)
-
-![demo1](https://baofen14787.github.com/zepto-SnapScroll/demo1.png)
-
-[DEMO2](http://oos.me/zepto-SnapScroll/demo_jd_job.html)
-
-![demo2](https://baofen14787.github.com/zepto-SnapScroll/demo2.png)
-## Changelog
-* v0.1.1
-    1. 修复不启用循环拖曳时，拖到最后一个无法继续拖动bug
-* v0.1.0
-    1. 修复左右滑动时，滑动距离小于翻页闸值时的bug
-    2. 新增useTransition参数 支持JS动画
-* v0.0.2
-    1. 新增四向滚动
-    2. 修复部分BUG
-* v0.0.1 项目创建
-
 ## Other
-[My Blog](http://www.ghugo.com)
+[My Blog](http://f2evarman.github.io)
 
